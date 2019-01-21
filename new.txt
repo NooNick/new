@@ -1,1 +1,1 @@
-qweasd
+Print {"hi World"}
